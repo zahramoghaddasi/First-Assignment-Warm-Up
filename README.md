@@ -1,5 +1,12 @@
 # First Assignment Warm-Up 📚
+<div align="center">
+<img src="nice.png">
 
+Grade: 100
+
+<div/>
+
+----------------------------------
 Welcome to your first assignment in your Advanced Programming course! This repository contains three easy and basic problems. The main goal of this assignment is to help you gain a better understanding of both Git and Java while accumulating hands-on experience with them.
 
 ## Getting Started 🚀
